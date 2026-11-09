@@ -1,0 +1,18 @@
+window.C={
+moods:[["🥱","Sleepy little potato","Aww, sleepyhead! You deserve a cozy day, delicious food and absolutely zero stress!"],
+["🥰","Happy little sunshine","YAYYY! Keep that beautiful smile shining. The world needs more sunshine like you!"],
+["🐣","Just a little silly","GOOD. Being a little silly is a full-time personality and we're here for it!"],
+["🥺","Need some hugs","Sending you the biggest virtual hug ever! Consider yourself officially hugged. ♡"]],
+gifts:[["A Little Happiness","I hope you always find reasons to smile, even on the most ordinary days. May happiness sneak up on you when you least expect it.","#f6a6c8"],
+["A Little Reminder","Hey, don't forget to give yourself some credit. You're growing, learning and doing your best. That's already something worth being proud of.","#b9a3dc"],
+["A Little Wish","May you meet kind people, discover wonderful places, have exciting opportunities and collect memories that make your heart feel full.","#ffd0a8"]],
+compliments:["You're literally a limited edition. No duplicates found. ♡","Your existence makes this little internet a tiny bit brighter.","Reminder: you're someone's favorite notification. Maybe even more than food notifications!","You deserve 100% happiness, 0% unnecessary drama and unlimited good food.","If being adorable was a crime, well... you know the rest. 🚨","You don't have to be perfect to be wonderful. Just being you is enough."],
+letter:["Dear Hoàng Khánh Linh, ♡","First of all, HAPPY BIRTHDAYYYYY! 🎂🎀","I hope today brings you lots of smiles, good food, sweet surprises and all the little things that make you happy.","Even though we know each other through a little screen, I still wanted to make something special for your day. It may just be a tiny website on the internet, but I hope it brings a genuine smile to your face.","As you step into another year, I hope you get to experience more beautiful moments, meet wonderful people, discover new things and achieve the goals you've been dreaming about.","And please, don't forget to take care of yourself. Rest when you need to, celebrate your little achievements, laugh as much as you can and never feel like you have to have everything figured out.","You deserve kindness, happiness and so many good things in this world.","Keep shining, little star. ✨","Sending you the biggest virtual hug,","Your internet friend ♡"],
+last:["Before you leave...","Here's one last wish for you, Linh.","More smiles.","More adventures.","More good memories.","More reasons to be happy."],
+stars:["Make a wish, Linh! ✨","Today is your day ♡","Sparkle on, birthday girl!","Shine bright, little star ⭐","Good things are on their way 💫"],
+moon:"It's okay to rest, little star.",
+secret:"YOU FOUND THE SECRET! You're extra special today. Okay, maybe every day. HEHE. ♡",
+sent:"A little heart, sent all the way to you. 💗",
+scr:{1:[7,2],2:[1,3],3:[9,10],4:[8,5],6:[4,6]},
+cap:["","Besties mode ON ✨","Cuteness overload 📸","Tiny wink, big charm 😉","Hug time 🤗","Sweet little moment ♡","Hand in hand 💫","Cute alert 🚨","Paris vibes 🗼","Fry-day energy 🍟","Snack squad 🍟"],
+pt:["Aww, cuties! 📸","Look at that smile ♡","Saving this memory 💗","Too cute to handle! ✨"]};
